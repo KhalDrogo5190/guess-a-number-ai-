@@ -1,0 +1,90 @@
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\ablom5190\Computer Programming 1\my-first-computer-programs\guess_a_number_ai.py 
+***************************************
+***Dwight Schrute's Gym For Muscles****
+************** Presents ***************
+******** Guess A Number A.I. **********
+***************************************
+What's your name?Jo
+
+Jo, would you like to pick numbers for your game?yes
+
+What would you like your low value to be?1
+
+What would you like your high value to be?32
+
+Jo, please think of a number between 1 and 32.
+Press 'enter' when ready.
+
+I have guessed 0/5 times
+16?
+Jo, please tell me if my number is too high, too low, or if I guessed correct say yes low
+
+I have guessed 1/5 times
+24?
+Jo, please tell me if my number is too high, too low, or if I guessed correct say yes high
+
+I have guessed 2/5 times
+20?
+Jo, please tell me if my number is too high, too low, or if I guessed correct say yes high
+
+I have guessed 3/5 times
+18?
+Jo, please tell me if my number is too high, too low, or if I guessed correct say yes yes
+
+Ahaha Jo,I knew it was 18 from the beginning.
+
+I guessed your number in only 3/5 tries.
+
+I always win! Haha!
+
+Jo, would you like to play again? (y/n) yES
+
+Jo, would you like to pick numbers for your game?no
+Okay, Jo default values will be used.
+
+Jo, please think of a number between 1 and 100.
+Press 'enter' when ready.
+
+I have guessed 0/7 times
+50?
+Jo, please tell me if my number is too high, too low, or if I guessed correct say yes pineapple
+Please say something intelligent.
+
+I have guessed 0/7 times
+50?
+Jo, please tell me if my number is too high, too low, or if I guessed correct say yes lemon juice
+Please say something intelligent.
+
+I have guessed 0/7 times
+50?
+Jo, please tell me if my number is too high, too low, or if I guessed correct say yes low
+
+I have guessed 1/7 times
+75?
+Jo, please tell me if my number is too high, too low, or if I guessed correct say yes low
+
+I have guessed 2/7 times
+87?
+Jo, please tell me if my number is too high, too low, or if I guessed correct say yes high
+
+I have guessed 3/7 times
+81?
+Jo, please tell me if my number is too high, too low, or if I guessed correct say yes y
+
+Ahaha Jo,I knew it was 81 from the beginning.
+
+I guessed your number in only 3/7 tries.
+
+I always win! Haha!
+
+Jo, would you like to play again? (y/n) no
+
+     Thank you for playing Jo 
+Thank you for playing this gnarly game
+      This game was produced by       
+   Dwight Schrute's Gym For Muscles   
+          and coded by Anders         
+>>> 
